@@ -1,4 +1,12 @@
 Rails.application.routes.draw do
+  get 'theaters/index'
+
+  get 'theaters/show'
+
+  get 'theaters/new'
+
+  resources :theaters
+  
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

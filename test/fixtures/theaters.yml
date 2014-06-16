@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  theater_name: MyString
+  theater_location: MyString
+  theater_play_name: MyString
+  theater_play_times: MyString
+  theater_play_description: MyString
+
+two:
+  theater_name: MyString
+  theater_location: MyString
+  theater_play_name: MyString
+  theater_play_times: MyString
+  theater_play_description: MyString
